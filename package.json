@@ -16,6 +16,8 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^14.1.1",
     "animate.css": "^4.1.1",
+    "express": "^4.18.1",
+    "express-favicon": "^2.0.1",
     "file-saver": "^2.0.5",
     "gsap-trial": "^3.10.4",
     "leaflet": "^1.8.0",
@@ -59,4 +61,3 @@
     "@types/leaflet": "^1.7.9"
   }
 }
-
